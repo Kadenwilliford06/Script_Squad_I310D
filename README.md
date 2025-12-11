@@ -1,2 +1,2 @@
-# Script_Squad_I310D
-This is our final project for I310D, which uses k-means clustering to analyze how the stock market was affected by the covid pandemic. 
+# How to Run Code
+To run the code, you need to download the file titled Main_code.ipyinb and then open it in a Jupyter notebook. After you open the file, you need to run all code blocks in order to ensure that you get the CSV files. After there is a section that says chosen_data = and chosen_metric =. You need to fill in the information that you want for each inside the ''. After you type in what stock ticker and metric and run it, you can run the k=2 clusters just to see what we saw at the start, and you can run the k=5 cluster, which is our final result.
